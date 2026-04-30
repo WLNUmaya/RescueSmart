@@ -1,0 +1,46 @@
+
+
+/* Full height setup */
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-sage-primary: #9CAF88;
+  --color-sage-light: #B8C9A3;
+  --color-sage-dark: #7A9A6D;
+  
+  --color-sky-primary: #87CEEB;
+  --color-sky-accent: #5BA4C9;
+  --color-sky-light: #A8D8EA;
+  
+  --color-sand-primary: #E8DCC4;
+  --color-sand-dark: #D4C4A8;
+  --color-sand-light: #F5EFE6;
+  
+  --color-text-dark: #2D3B2D;
+}
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  color: var(--color-text-dark);
+  background-color: var(--color-sand-light);
+  overflow-x: hidden;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

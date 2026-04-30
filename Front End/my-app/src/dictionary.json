@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "language": "SLSL",
+    "version": "0.1",
+    "note": "Starter placeholder dictionary. Replace 'asset' with real mp4/webm/gif paths later."
+  },
+  "entries": [
+    {
+      "id": "help",
+      "label": "Help",
+      "keywords": [
+        "help",
+        "save",
+        "rescue",
+        "urgent"
+      ],
+      "asset": "help.png"
+    },
+    {
+      "id": "water_rising",
+      "label": "Water rising",
+      "keywords": [
+        "water rising",
+        "water level",
+        "flood rising",
+        "floodwater"
+      ],
+      "asset": "water_rising.png"
+    },
+    {
+      "id": "trapped",
+      "label": "Trapped",
+      "keywords": [
+        "trapped",
+        "stuck",
+        "cannot get out",
+        "no way out"
+      ],
+      "asset": "trapped.png"
+    },
+    {
+      "id": "fire_smoke",
+      "label": "Fire/Smoke",
+      "keywords": [
+        "fire",
+        "smoke",
+        "burning"
+      ],
+      "asset": "fire_smoke.png"
+    },
+    {
+      "id": "medical_emergency",
+      "label": "Medical emergency",
+      "keywords": [
+        "medical",
+        "bleeding",
+        "unconscious",
+        "breathing",
+        "injury"
+      ],
+      "asset": "medical_emergency.png"
+    },
+    {
+      "id": "pregnant",
+      "label": "Pregnant",
+      "keywords": [
+        "pregnant"
+      ],
+      "asset": "pregnant.png"
+    },
+    {
+      "id": "children",
+      "label": "Children",
+      "keywords": [
+        "child",
+        "children",
+        "kid",
+        "kids",
+        "baby"
+      ],
+      "asset": "children.png"
+    },
+    {
+      "id": "elderly",
+      "label": "Elderly",
+      "keywords": [
+        "elderly",
+        "old",
+        "grandmother",
+        "grandfather",
+        "60+"
+      ],
+      "asset": "elderly.png"
+    },
+    {
+      "id": "disability",
+      "label": "Disability",
+      "keywords": [
+        "disabled",
+        "disability",
+        "wheelchair",
+        "cannot walk"
+      ],
+      "asset": "disability.png"
+    },
+    {
+      "id": "call",
+      "label": "Call",
+      "keywords": [
+        "call",
+        "phone"
+      ],
+      "asset": "call.png"
+    },
+    {
+      "id": "location",
+      "label": "Location",
+      "keywords": [
+        "location",
+        "address",
+        "gps"
+      ],
+      "asset": "location.png"
+    },
+    {
+      "id": "yes",
+      "label": "Yes",
+      "keywords": [
+        "yes",
+        "ok",
+        "okay"
+      ],
+      "asset": "yes.png"
+    },
+    {
+      "id": "no",
+      "label": "No",
+      "keywords": [
+        "no",
+        "not"
+      ],
+      "asset": "no.png"
+    },
+    {
+      "id": "unknown",
+      "label": "Unknown",
+      "keywords": [
+        "unknown",
+        "not sure",
+        "dont know"
+      ],
+      "asset": "unknown.png"
+    }
+  ]
+}
